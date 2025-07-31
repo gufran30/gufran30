@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **to become full stack developer**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
