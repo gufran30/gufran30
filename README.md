@@ -7,7 +7,6 @@
 
 ---
 
-- 🔭 I'm currently working on a project like **ChatGPT Clone with Long-Term Memory** using MERN Stack
 - 🌱 I'm currently learning **Next.js & Python**
 - 🎓 Pursuing **MCA**
 - ⚡ Fun fact: I went from just knowing HTML/CSS to building full stack apps with AI features!
